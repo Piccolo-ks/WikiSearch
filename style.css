@@ -1,0 +1,31 @@
+body {
+  background-color: #ede7f6;
+  overflow: auto;
+}
+
+.btn {
+  margin: 1%;
+  width: 100%;
+}
+
+a {
+  color: inherit;
+}
+
+.card-image {
+  height: 100%;
+  border-right: 1px solid #ccc;
+}
+
+.row {
+  margin-bottom: 0px;
+  width: 100%;
+}
+
+.articleIcon {
+  width: 250px !important;
+}
+
+/* .card-content:hover {
+  box-shadow: 2px 5px 5px #e1bee7;
+} */
